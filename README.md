@@ -1,4 +1,9 @@
-## Hi there 👋
+
+# Hey I'm Roberto
+
+Junior DBA 📊 | PostgreSQL & MongoDB Specialist. L2 Technical Support & Web Dev background. Relational & NoSQL modeling, RBAC security, and performance tuning. 🚀
+
+
 
 <!--
 **RobertoPrl/RobertoPrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
